@@ -1,10 +1,6 @@
 ## PHP Chess
 
-[![Latest Stable Version](https://poser.pugx.org/chesslablab/php-chess/v/stable)](https://packagist.org/packages/chesslablab/php-chess)
-![GitHub Workflow Status](https://github.com/chesslablab/php-chess/actions/workflows/php.yml/badge.svg)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Contributors](https://img.shields.io/github/contributors/chesslablab/php-chess)](https://github.com/chesslablab/php-chess/graphs/contributors)
-[![Downloads](https://img.shields.io/packagist/dt/chesslablab/php-chess.svg)](https://packagist.org/packages/chesslablab/php-chess)
+This is forked from the original to prevent breaking changes from messing up my own code super often. Almost every time I would run `composer update`, this package would have a breaking change.
 
 A chess library for PHP.
 
